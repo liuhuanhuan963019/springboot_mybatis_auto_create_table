@@ -10,8 +10,6 @@ import java.sql.Date;
 /**
  * 第一种定义方式，使用@Table和@Column方式定义
  *
- * @author 徐森威
- * @date 2020/12/24
  */
 @Table(name = "test")
 public class Test extends BaseModel {
