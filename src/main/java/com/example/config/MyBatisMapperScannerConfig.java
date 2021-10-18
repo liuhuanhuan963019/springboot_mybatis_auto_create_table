@@ -6,8 +6,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author 徐森威
- * @date 2017/11/14
  */
 
 @Configuration
