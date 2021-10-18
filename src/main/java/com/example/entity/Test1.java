@@ -15,8 +15,7 @@ import java.util.Date;
  * 例如@Id，@IsNotNull，@isAutoIncrement等等
  * 如果没有设置name，会直接把变量名按照驼峰规则转换，如果没有设置类型也会自动转换Java的类型到SQL类型
  *
- * @auther 徐森威
- * @date 2020/12/24
+
  */
 @Table(name = "test1")
 public class Test1 extends BaseModel {
